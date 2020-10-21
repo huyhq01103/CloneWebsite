@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Kanit Light'), local('Kanit-Light'), url(../fonts/nKKU-Go6G5tXcr4-ORWnVaQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kanit Regular'), local('Kanit-Regular'), url(../fonts/nKKZ-Go6G5tXcraVGwU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Kanit Medium'), local('Kanit-Medium'), url(../fonts/nKKU-Go6G5tXcr5mOBWnVaQ.ttf) format('truetype');
+}
